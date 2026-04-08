@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="500" height="500" alt="me" src="https://github.com/user-attachments/assets/e49c0406-49de-477c-8ad3-c6446feacdf6" />
+<img width="500" height="500" alt="me" src="me.png" />
 
 
 <h1>Hi there, I'm Prasamsha👩‍💻</h1>
